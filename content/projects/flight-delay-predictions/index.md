@@ -1,17 +1,17 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: true
+title: "Flight Delay Prediction ✈️ ☁️" 
+date: 2025-03-16
+tags: ["prediction model","group project", "watspeed","python"]
+author: ["Thet Win", "Jasmine Sun", "Peony Tam", "Onesime Dianganzi"]
+description: "This paper studies the correlation between flight dates, lengths, etc with its flight delays." 
+summary: "Its purpose is to help determine ways in which we can shorten the delays and maximize efficiency. As the last project in the watspeed course: XXX, we chose a project that interests us to reflect what we learnt." 
+# cover:
+#     image: "paper2.png"
+#     alt: "Dimensions of a sausage dog"
+#     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://www.kaggle.com/datasets/shubhamsingh42/flight-delay-dataset-2018-2024/"
+    Text: "Kaggle Dataset"
 
 ---
 
