@@ -1,4 +1,4 @@
-baseURL: "https://papercane.org/" 
+baseURL: "https://papercane.github.org/" 
 title: Jasmine Sun
 theme: PaperMod
 
@@ -10,24 +10,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
         - name: Projects
           url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
-    description: "This website hosts Jasmine's research papers, projects, course materials, and contact information."
+    description: "This website hosts Jasmine's research papers, projects, course materials, and contact information. "
     author: Jasmine Sun
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "01/2006"
@@ -54,19 +54,19 @@ params:
     profileMode:
           enabled: true
           title: Jasmine Lu Sun 🐋 
-          subtitle: "I am currently a student at the University of Waterloo for a major in Statistics, minor in Combinatorics & Optimization and Computing."
+          subtitle: "I am currently a student at the University of Waterloo for a major in Statistics, minor in Combinatorics & Optimization and Computing. Im constantly working toward my next project so be sure to come back to check them out! 💪 😤"
           imageUrl: "profile.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Projects
               url: projects/
-            - name: Data
-              url: data/
+            # - name: Data
+            #   url: data/
             # - name: Books
             #   url: books/
-            - name: Courses
-              url: courses/
+            # - name: Courses
+            #   url: courses/
             - name: Tags
               url: tags/
             - name: Archive

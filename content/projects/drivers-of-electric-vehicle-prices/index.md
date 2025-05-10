@@ -1,5 +1,5 @@
 ---
-title: "🚙 ⚡ Drivers of Electric Vehicle Prices" 
+title: "Drivers of Electric Vehicle Prices 🚙 ⚡" 
 date: 2024-08-12
 tags: ["watspeed","group project","randomforestregression","rsquared","python"]
 author: ["Omosalewa Adebooye","Joshua Linner", "Jasmine Sun"]

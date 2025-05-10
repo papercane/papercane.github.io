@@ -1,10 +1,10 @@
 ---
-title: "Datafest: Trends of Uncategorized Data" 
+title: "Datafest: Trends of Uncategorized Data 🏛️ ⚖️" 
 date: 2025-05-04
 tags: ["datathon","law firms","university of waterloo", "group project","google api"]
 author: ["Mukto Akash", "Jasmine Sun", "Adrian Tang", "Irene Chung"]
-description: "This paper describes...." 
-summary: "Using several case studies, this paper describes ..." 
+description: "This paper describes how uncategorized data in the Savill database can lead to some skewed predictions." 
+summary: "Using Pheonix Arazona as our case stud, we studied the correlation between classified and unclassified companies to determine if there were trends that the company was not able to notice." 
 # cover:
 #     image: "paper3.jpg"
 #     alt: "Vizualisation of an inner hedgehog"
@@ -23,17 +23,9 @@ summary: "Using several case studies, this paper describes ..."
 
 ---
 
-##### About this Project
-
-In the Datafest 2025 competition, this project was done over the span of 2 days. The data was given by Savill, one of the world's leading real estate service providers. 
-
-...
-
----
-
 ##### Abstract
 
-...
+In the Datafest 2025 competition, this project was done over the span of 2 days. The data was given by Savill, one of the world's leading real estate service providers. Using Pheonix Arazona as our case stud, we studied the correlation between classified and unclassified companies to determine if there were trends that the company was not able to notice.
 
 ---
 
