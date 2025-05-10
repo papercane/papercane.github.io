@@ -1,14 +1,14 @@
 ---
 title: "Datafest: Trends of Uncategorized Data" 
 date: 2025-05-04
-tags: ["datathon","law firms","university of waterloo"]
+tags: ["datathon","law firms","university of waterloo", "group project","google api"]
 author: ["Mukto Akash", "Jasmine Sun", "Adrian Tang", "Irene Chung"]
 description: "This paper describes...." 
 summary: "Using several case studies, this paper describes ..." 
-cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
+# cover:
+#     image: "paper3.jpg"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Socio-Experimental Psychology"

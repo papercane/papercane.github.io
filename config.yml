@@ -30,7 +30,7 @@ params:
     description: "This website hosts Jasmine's research papers, projects, course materials, and contact information."
     author: Jasmine Sun
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "May 2025"
+    DateFormat: "01/2006"
     defaultTheme: light
     enableEmoji: true # is this right??
     hideFooter: false
