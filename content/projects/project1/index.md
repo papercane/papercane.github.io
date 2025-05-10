@@ -1,5 +1,5 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Drivers of Electric Vehicle Prices" 
 date: 2013-01-15
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]

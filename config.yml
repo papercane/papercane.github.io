@@ -32,6 +32,7 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "May 2025"
     defaultTheme: light
+    enableEmoji: true # is this right??
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -52,7 +53,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Jasmine Lu Sun
+          title: Jasmine Lu Sun 🐋 
           subtitle: "I am currently a student at the University of Waterloo for a major in Statistics, minor in Combinatorics & Optimization and Computing."
           imageUrl: "profile.jpeg"
           imageWidth: 160
