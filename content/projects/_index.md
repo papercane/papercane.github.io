@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "Projects that by Jasmine"
+description: "Projects by Jasmine"
 ---
