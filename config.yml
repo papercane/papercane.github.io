@@ -54,6 +54,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    hideAuthor: true
     profileMode:
           enabled: true
           title: Jasmine Lu Sun 🐋 
