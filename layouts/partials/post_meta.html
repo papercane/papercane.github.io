@@ -19,11 +19,19 @@ This is the code for the card posts in project. this is where you can edit what 
 {{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}
 {{- end }}
 
+<!-- this is where the tags exist on the card.. its ugly as shit right now -->
+{{- if (.Param "ShowTags") -}}
+{{- with (partial "tags.html" .) }}
+{{- $scratch.Add "meta" (slice .) }}
+{{- end }}
+{{- end }}
+
+<!-- 
 {{- if not (.Param "hideAuthor") -}}
 {{- with (partial "author.html" .) }}
 {{- $scratch.Add "meta" (slice .) }}
 {{- end }}
-{{- end }}
+{{- end }} -->
 
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;&middot;&nbsp;" | safeHTML -}}

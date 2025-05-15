@@ -55,6 +55,7 @@ params:
     comments: false
     math: true
     hideAuthor: true
+    ShowTags : true
     profileMode:
           enabled: true
           title: Jasmine Lu Sun 🐋 

@@ -1,0 +1,9 @@
+{{- if or .Params.tags site.Params.tags }}
+{{- $tags := (.Params.tags | default site.Params.tags) }}
+{{- $tags_type := (printf "%T" $tags) }}
+{{- if (or (eq $tags_type "[]string") (eq $tags_type "[]interface {}")) }}
+{{- (delimit $tags ",&thinsp;" | safeHTML ) }}
+{{- else }}
+{{- $tags }}
+{{- end }}
+{{- end -}}
