@@ -5,10 +5,10 @@ tags: ["watspeed","group project","randomforestregression","rsquared","python"]
 author: ["Omosalewa Adebooye","Joshua Linner", "Jasmine Sun"]
 description: "This paper reviews what factors drives the prices of electric vehicles." 
 summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
-# cover:
-#     image: "project1.jpg"
-#     alt: "Some Uses For Olive Oil"
-#     relative: true
+cover:
+    image: "project1.jpg"
+    alt: "Man filling up his electric car"
+    relative: true
 editPost:
     URL: "https://ev-database.org/#group=vehicle-group&rs-pr=10000_100000&rs-er=0_1000&rs-ld=0_1000&rs-ac=2_23&rs-dcfc=0_300&rs-ub=10_200&rs-tw=0_2500&rs-ef=100_350&rs-sa=-1_5&rs-w=1000_3500&rs-c=0_5000&rs-y=2010_2030&s=1&p=0-10"
     Text: "Electric Vehicle Database"

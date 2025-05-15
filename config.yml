@@ -2,6 +2,9 @@ baseURL: "https://papercane.github.org/"
 title: Jasmine Sun
 theme: PaperMod
 
+# testing site: http://localhost:1313/
+# command: hugo server
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -56,8 +59,8 @@ params:
           title: Jasmine Lu Sun 🐋 
           subtitle: "I am currently a student at the University of Waterloo for a major in Statistics, minor in Combinatorics & Optimization and Computing. Im constantly working toward my next project so be sure to come back to check them out! 💪 😤"
           imageUrl: "profile.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 190
+          imageHeight: 190
           buttons:
             - name: Projects
               url: projects/
