@@ -2,7 +2,7 @@
 title: "Drivers of Electric Vehicle Prices 🚙 ⚡" 
 date: 2024-08-12
 tags: ["watspeed","group project","randomforestregression","rsquared","python"]
-author: ["Omosalewa Adebooye","Joshua Linner", "Jasmine Sun"]
+author: ["Jasmine Sun", "Omosalewa Adebooye","Joshua Linner"]
 description: "This paper reviews what factors drives the prices of electric vehicles." 
 summary: "This paper reviews the different factors that effect the prices of electric vehicles including battery capacity, max speed, charging speed etc." 
 cover:

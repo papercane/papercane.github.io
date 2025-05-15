@@ -2,7 +2,7 @@
 title: "Datafest: Trends of Uncategorized Data 🏛️ ⚖️" 
 date: 2025-05-04
 tags: ["datathon","law firms","university of waterloo", "group project","google api"]
-author: ["Mukto Akash", "Jasmine Sun", "Adrian Tang", "Irene Chung"]
+author: ["Jasmine Sun", "Mukto Akash", "Adrian Tang", "Irene Chung"]
 description: "This paper describes how uncategorized data in the Savill database can lead to some skewed predictions." 
 summary: "Using Pheonix Arazona as our case stud, we studied the correlation between classified and unclassified companies to determine if there were trends that the company was not able to notice." 
 # cover:
@@ -12,11 +12,6 @@ summary: "Using Pheonix Arazona as our case stud, we studied the correlation bet
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Socio-Experimental Psychology"
-
----
-
-##### Figure 1: The map of Phoenix with the locations of all lawfirms over the years
-![](phoenix_map.jpeg)
 
 ---
 
@@ -32,12 +27,18 @@ In the Datafest 2025 competition, this project was done over the span of 2 days.
 
 ---
 
+##### Figure 1: The map of Phoenix with the locations of all lawfirms over the years
+![](phoenix_map.jpeg)
+
+---
+
 ##### Technology used
 - Pandas
 - Google API
 
 ##### Citation
  Arizona Crime Statistics: Crime Overview 2024
+
  US Census Bureau: Population Estimates, July 1, 2024
 
 ##### Related material

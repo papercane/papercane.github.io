@@ -2,7 +2,7 @@
 title: "Flight Delay Prediction ✈️ ☁️" 
 date: 2025-03-16
 tags: ["prediction model","group project", "watspeed","python"]
-author: ["Thet Win", "Jasmine Sun", "Peony Tam", "Onesime Dianganzi", "Luiz Carvalho", "Richard Taylor"]
+author: ["Jasmine Sun", "Thet Win", "Peony Tam", "Onesime Dianganzi", "Luiz Carvalho", "Richard Taylor"]
 description: "This paper studies the correlation between flight dates, lengths, etc with its flight delays." 
 summary: "Its purpose is to help determine ways in which we can shorten the delays and maximize efficiency. As the last project in the watspeed course: XXX, we chose a project that interests us to reflect what we learnt." 
 # cover:
